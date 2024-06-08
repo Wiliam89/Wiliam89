@@ -2,7 +2,7 @@
 ### Olá eu sou Wiliam Oliveira 🤙
 
 [![Linkewdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiliam-oliveira-0108b12b9)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dkinformatica_305)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devwiliam89)
 
 ![Wiliam GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiliam89&show_icons=true&bg_color=00000000)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wiliam89&hide_progress=true)
 
