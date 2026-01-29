@@ -15,7 +15,7 @@
 <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-<img align="center" alt="python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=unity&logoColor=white">
+<img align="center" alt="python" src="https://img.shields.io/badge/python-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div><br/>
 Amo tecnologia e evolução, como muito trabalho sigo passo a passo rumo ao meu sonho de ser uma referencia em desenvolvimento de games e web.
 
